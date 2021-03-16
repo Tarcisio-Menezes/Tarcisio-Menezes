@@ -1,4 +1,4 @@
-### Hi I'm Tarcísio Menezes
+### Hi, I'm Tarcísio Menezes!
 
 A chemist venturing into the world of programming! Web development student at Trybe. Follow my projects! 
 
