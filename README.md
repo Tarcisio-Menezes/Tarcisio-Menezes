@@ -3,7 +3,7 @@
 A chemist venturing into the world of programming! Web development student at Trybe. Follow my projects! 
 
 
-<img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="125" height="125" />
+<img src="image/myoctocat.png" width="125" height="125" />
 
 <b>Follow me on social media:<b>
 
