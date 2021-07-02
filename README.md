@@ -6,7 +6,7 @@ Follow my projects!
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img align="right" width="300" src="https://giphy.com/gifs/Sushiboxru-cat-kitten-sushistik-f6hnhHkks8bk4jwjh3/fullscreen" />
+<img align="right" width="300" src="https://media3.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" />
 
 ```javascript
 const tarcisioDev = {
@@ -24,7 +24,7 @@ const tarcisioDev = {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://blog.fellyph.com.br/desenvolvimento-web/eventos-com-react/"></code>
+<code><img height="30" src="https://res.cloudinary.com/practicaldev/image/fetch/s--3zWuwYa3--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pdib9r9rk5j1m7oala1p.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"></code>
 
 
