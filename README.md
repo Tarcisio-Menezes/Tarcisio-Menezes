@@ -4,7 +4,7 @@ A chemist venturing into the world of programming!
 Web development student at Trybe.
 Follow my projects!
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About
 
 <img align="right" width="300" src="https://media3.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" />
 
