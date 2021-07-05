@@ -12,7 +12,7 @@ Follow my projects!
 const tarcisioDev = {
   name: 'Tarcísio Menezes',
   acknowledgements: 'Web Development',
-  skillSet: ['JavaScript', 'React', 'Jest', 'HTML', 'CSS', 'RTL', 'Git', 'Redux']
+  skillSet: ['JavaScript', 'React', 'Jest', 'HTML', 'CSS', 'RTL', 'Git', 'Redux'],
 }
 ```
 
