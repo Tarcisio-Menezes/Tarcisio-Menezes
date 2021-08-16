@@ -1,23 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tarcísio Menezes</h1>
 <h3 align="center">A chemist venturing into the world of programming! Web development student at Trybe.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarcisio-menezes&label=Profile%20views&color=0e75b6&style=flat" alt="tarcisio-menezes" /> </p>
+- 🌱 I’m currently learning **MySQL, MongoDB and Node JS**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarcisio-menezes" alt="tarcisio-menezes" /></a> </p>
-
-- 🌱 I’m currently learning **React JS, JavaScript, HTML and CSS.**
-
-<<<<<<< HEAD
 - 👨‍💻 All of my projects are available at [https://github.com/Tarcisio-Menezes/trybe_exercises/pulls](https://github.com/Tarcisio-Menezes/trybe_exercises/pulls)
-=======
-```javascript
-const tarcisioDev = {
-  name: 'Tarcísio Menezes',
-  acknowledgements: 'Web Development',
-  skillSet: ['JavaScript', 'React', 'Jest', 'HTML', 'CSS', 'RTL', 'Git', 'Redux'],
-}
-```
->>>>>>> f11229d07210e1def49e61baed4bb0649de7bbdb
 
 - 💬 Ask me about **JavaScript, React JS and HTML**
 
