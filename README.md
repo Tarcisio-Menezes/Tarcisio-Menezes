@@ -19,7 +19,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarcisio-menezes&show_icons=true&locale=en" alt="tarcisio-menezes" width="350" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarcisio-menezes&" alt="tarcisio-menezes" width="350" /></p>
+<p><img align="rigth" src="https://github-readme-streak-stats.herokuapp.com/?user=tarcisio-menezes&" alt="tarcisio-menezes" width="350" /></p>
 
 
 
