@@ -7,7 +7,17 @@
 
 - 🌱 I’m currently learning **React JS, JavaScript, HTML and CSS.**
 
+<<<<<<< HEAD
 - 👨‍💻 All of my projects are available at [https://github.com/Tarcisio-Menezes/trybe_exercises/pulls](https://github.com/Tarcisio-Menezes/trybe_exercises/pulls)
+=======
+```javascript
+const tarcisioDev = {
+  name: 'Tarcísio Menezes',
+  acknowledgements: 'Web Development',
+  skillSet: ['JavaScript', 'React', 'Jest', 'HTML', 'CSS', 'RTL', 'Git', 'Redux'],
+}
+```
+>>>>>>> f11229d07210e1def49e61baed4bb0649de7bbdb
 
 - 💬 Ask me about **JavaScript, React JS and HTML**
 
