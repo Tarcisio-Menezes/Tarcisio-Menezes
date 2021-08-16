@@ -1,40 +1,29 @@
-### Hi, I'm Tarcísio Menezes!
+<h1 align="center">Hi 👋, I'm Tarcísio Menezes</h1>
+<h3 align="center">A chemist venturing into the world of programming! Web development student at Trybe.</h3>
 
-A chemist venturing into the world of programming!
-Web development student at Trybe.
-Follow my projects!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarcisio-menezes&label=Profile%20views&color=0e75b6&style=flat" alt="tarcisio-menezes" /> </p>
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarcisio-menezes" alt="tarcisio-menezes" /></a> </p>
 
-<img align="right" width="200" src="https://media3.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" />
+- 🌱 I’m currently learning **React JS, JavaScript, HTML and CSS.**
 
-```javascript
-const tarcisioDev = {
-  name: 'Tarcísio Menezes',
-  acknowledgements: 'Web Development',
-  skillSet: ['JavaScript', 'React', 'Jest', 'HTML', 'CSS', 'RTL', 'Git', 'Redux']
-}
-```
+- 👨‍💻 All of my projects are available at [https://github.com/Tarcisio-Menezes/trybe_exercises/pulls](https://github.com/Tarcisio-Menezes/trybe_exercises/pulls)
 
-## **Resources:**  
+- 💬 Ask me about **JavaScript, React JS and HTML**
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://res.cloudinary.com/practicaldev/image/fetch/s--3zWuwYa3--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pdib9r9rk5j1m7oala1p.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"></code>
+- 📫 How to reach me **tarcisioquim@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tarcísio-menezes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarcísio-menezes" height="30" width="40" /></a>
+</p>
 
-[website]: https://tarcisio-menezes.github.io/
-[instagram]: https://www.instagram.com/cisao_tarcisio/
-[linkedin]: https://www.linkedin.com/in/tarcísio-menezes/
-<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
-#### Social Media
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarcisio-menezes&show_icons=true&locale=en&layout=compact" alt="tarcisio-menezes" /></p>
 
-🏡 [website][website] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarcisio-menezes&show_icons=true&locale=en" alt="tarcisio-menezes" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarcisio-menezes&" alt="tarcisio-menezes" /></p>
+
